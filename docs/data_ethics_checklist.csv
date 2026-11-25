@@ -1,0 +1,10 @@
+Aspek,Status,Bukti / Catatan
+Sumber data dan URL dicantumkan,Ya,URL sumber BPS dan Day Bali Tour dicatat dalam docs/provenance.csv.
+Lisensi data diperiksa dan dicatat,Ya,Lisensi diperiksa dan dicatat. Lisensi penggunaan ulang Day Bali Tour belum ditemukan sehingga izinnya belum dapat dipastikan.
+robots.txt / Terms of Service diperiksa,Ya,robots.txt diperiksa dan halaman paket tidak diblokir. Terms of Service tidak ditemukan pada website.
+Kolom PII diidentifikasi,Ya,"Kolom dataset diperiksa. Tidak ditemukan data pribadi seperti nama individu, nomor telepon, alamat pribadi, atau email pribadi."
+"PII dihapus, di-mask, atau di-pseudonimisasi",NA,Tidak diperlukan karena pada kolom yang diperiksa tidak ditemukan PII.
+Prinsip minimalisasi data diterapkan,Ya,"Data yang diambil dibatasi pada data kunjungan wisatawan serta nama paket, harga, dan informasi layanan."
+Potensi bias sampel dianalisis,Ya,Data paket wisata hanya berasal dari satu website sehingga belum mewakili seluruh penyedia wisata di Bali.
+Tujuan penggunaan data dinyatakan eksplisit,Ya,Data digunakan untuk memenuhi tugas UTS Akuisisi dan Manajemen Data.
+Rencana retensi dan penghapusan data ada,Ya,"Data disimpan selama pengerjaan dan penilaian UTS. Setelah tidak diperlukan lagi, data akan dihapus dari penyimpanan kerja."

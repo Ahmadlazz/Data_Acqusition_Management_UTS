@@ -1,0 +1,25 @@
+{
+    "nama_file": "hasil_merge_paket_destinasi.csv",
+    "tanggal_proses": "2026-11-25",
+    "sumber_data": [
+        {
+            "nama": "Day Bali Tour",
+            "jenis": "Web Scraping",
+            "file": "hasil_scraping_daybalitour.csv"
+        },
+        {
+            "nama": "OpenStreetMap Nominatim",
+            "jenis": "API",
+            "file": "hasil_api_nominatim.json",
+            "url": "https://nominatim.openstreetmap.org/search"
+        }
+    ],
+    "metode_penggabungan": "Pandas Merge",
+    "kunci_penggabungan": "destinasi_key",
+    "jenis_merge": "left",
+    "validasi": "many_to_one",
+    "jumlah_baris": 8,
+    "jumlah_kolom": 11,
+    "jumlah_duplikasi": 0,
+    "atribusi": "© OpenStreetMap contributors"
+}

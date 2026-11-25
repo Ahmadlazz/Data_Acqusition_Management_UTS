@@ -1,0 +1,18 @@
+
+HASIL PEMERIKSAAN TERMS OF SERVICE
+
+Nama website: Day Bali Tour
+URL:
+https://www.daybalitour.com/best-bali-day-tour-packages/
+
+Hasil pemeriksaan:
+Tidak ditemukan halaman Terms of Service atau Terms and Conditions
+pada website setelah pemeriksaan bagian bawah halaman.
+
+Pemeriksaan robots.txt:
+Berhasil diakses dengan status HTTP 200.
+Halaman paket wisata yang digunakan tidak tercantum dalam aturan Disallow.
+
+Kesimpulan:
+Izin penggunaan ulang konten belum dapat dipastikan.
+Robots.txt bukan merupakan izin penggunaan ulang konten.

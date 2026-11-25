@@ -1,0 +1,143 @@
+[
+  {
+    "destinasi":"Nusa Penida, Bali, Indonesia",
+    "nama_lokasi":"Nusa Penida, Klungkung, Bali, Indonesia",
+    "latitude":"-8.7455877",
+    "longitude":"115.5346805",
+    "alamat":{
+      "island":"Nusa Penida",
+      "town":"Nusa Penida",
+      "region":"Klungkung",
+      "state":"Bali",
+      "ISO3166-2-lvl4":"ID-BA",
+      "country":"Indonesia",
+      "country_code":"id"
+    },
+    "destinasi_key":"Nusa Penida"
+  },
+  {
+    "destinasi":"Lempuyang Temple, Bali, Indonesia",
+    "nama_lokasi":"Pura Lempuyang Luhur, Temple Path Steps, Tri Buana, Abang, Karangasem, Bali, 80811, Indonesia",
+    "latitude":"-8.3951892",
+    "longitude":"115.6480606",
+    "alamat":{
+      "amenity":"Pura Lempuyang Luhur",
+      "road":"Temple Path Steps",
+      "village":"Tri Buana",
+      "town":"Abang",
+      "region":"Karangasem",
+      "state":"Bali",
+      "ISO3166-2-lvl4":"ID-BA",
+      "postcode":"80811",
+      "country":"Indonesia",
+      "country_code":"id"
+    },
+    "destinasi_key":"Lempuyang"
+  },
+  {
+    "destinasi":"Ulun Danu Beratan, Bali, Indonesia",
+    "nama_lokasi":"Pura Ulun Danu Beratan, 2, Kembangkerta, Candikuning, Baturiti, Tabanan, Bali, 81162, Indonesia",
+    "latitude":"-8.2755069",
+    "longitude":"115.1662600",
+    "alamat":{
+      "amenity":"Pura Ulun Danu Beratan",
+      "road":"2",
+      "hamlet":"Kembangkerta",
+      "village":"Candikuning",
+      "town":"Baturiti",
+      "region":"Tabanan",
+      "state":"Bali",
+      "ISO3166-2-lvl4":"ID-BA",
+      "postcode":"81162",
+      "country":"Indonesia",
+      "country_code":"id"
+    },
+    "destinasi_key":"Ulun Danu Beratan"
+  },
+  {
+    "destinasi":"Tanah Lot, Bali, Indonesia",
+    "nama_lokasi":"Tanah Lot, Jalan Enjung Pura, Batugaing, Beraban, Kediri, Tabanan, Bali, 82121, Indonesia",
+    "latitude":"-8.6212286",
+    "longitude":"115.0868849",
+    "alamat":{
+      "amenity":"Tanah Lot",
+      "road":"Jalan Enjung Pura",
+      "hamlet":"Batugaing",
+      "village":"Beraban",
+      "town":"Kediri",
+      "region":"Tabanan",
+      "state":"Bali",
+      "ISO3166-2-lvl4":"ID-BA",
+      "postcode":"82121",
+      "country":"Indonesia",
+      "country_code":"id"
+    },
+    "destinasi_key":"Tanah Lot"
+  },
+  {
+    "destinasi":"Tanjung Benoa, Bali, Indonesia",
+    "nama_lokasi":"Tanjung Benoa, Gang Guntur, Benoa, Kuta Selatan, Badung, Bali, 80362, Indonesia",
+    "latitude":"-8.7657398",
+    "longitude":"115.2232562",
+    "alamat":{
+      "natural":"Tanjung Benoa",
+      "road":"Gang Guntur",
+      "suburb":"Benoa",
+      "town":"Kuta Selatan",
+      "region":"Badung",
+      "state":"Bali",
+      "ISO3166-2-lvl4":"ID-BA",
+      "postcode":"80362",
+      "country":"Indonesia",
+      "country_code":"id"
+    },
+    "destinasi_key":"Tanjung Benoa"
+  },
+  {
+    "destinasi":"Uluwatu Temple, Bali, Indonesia",
+    "nama_lokasi":"Pura Luhur Uluwatu, Jalan Raya Uluwatu, Pecatu, Kuta Selatan, Badung, Bali, 80361, Indonesia",
+    "latitude":"-8.8293693",
+    "longitude":"115.0843428",
+    "alamat":{
+      "amenity":"Pura Luhur Uluwatu",
+      "road":"Jalan Raya Uluwatu",
+      "village":"Pecatu",
+      "town":"Kuta Selatan",
+      "region":"Badung",
+      "state":"Bali",
+      "ISO3166-2-lvl4":"ID-BA",
+      "postcode":"80361",
+      "country":"Indonesia",
+      "country_code":"id"
+    },
+    "destinasi_key":"Uluwatu"
+  },
+  {
+    "destinasi":"Kintamani, Bali, Indonesia",
+    "nama_lokasi":"Kintamani, Bangli, Bali, Indonesia",
+    "latitude":"-8.2495163",
+    "longitude":"115.3482233",
+    "alamat":{
+      "town":"Kintamani",
+      "region":"Bangli",
+      "state":"Bali",
+      "ISO3166-2-lvl4":"ID-BA",
+      "country":"Indonesia",
+      "country_code":"id"
+    },
+    "destinasi_key":"Kintamani"
+  },
+  {
+    "destinasi":"Ubud, Bali, Indonesia",
+    "nama_lokasi":"Ubud, Gianyar, Bali, Indonesia",
+    "latitude":"-8.5170195",
+    "longitude":"115.2550507",
+    "alamat":{
+      "town":"Ubud",
+      "region":"Gianyar",
+      "state":"Bali",
+      "country":"Indonesia"
+    },
+    "destinasi_key":"Ubud"
+  }
+]
