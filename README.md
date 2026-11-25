@@ -8,9 +8,7 @@
 - Program Studi: Informatika
 
 ## 2. Deskripsi Proyek
-Proyek ini dibuat untuk memenuhi tugas UTS mata kuliah Akuisisi dan Manajemen Data.
-Proyek berfokus pada pengumpulan, pemeriksaan, pengolahan, dan penggabungan data
-yang berkaitan dengan pariwisata dan paket wisata di Bali.
+Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Akuisisi dan Manajemen Data. Proyek ini mengangkat tema pariwisata di Bali dengan fokus pada pengelolaan informasi mengenai jumlah kunjungan wisatawan, destinasi wisata, dan paket perjalanan wisata. Data yang digunakan berasal dari beberapa sumber yang saling melengkapi, sehingga dapat memberikan gambaran yang lebih luas mengenai sektor pariwisata di Bali. Melalui proyek ini, informasi dari berbagai sumber dikumpulkan menjadi kumpulan data yang lebih terstruktur dan mudah dipahami.
 
 ## 3. Sumber Data
 1. BPS Indonesia (dataset CSV)
