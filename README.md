@@ -1,27 +1,55 @@
+
 # Data Acquisition Management - UTS
 
-## Deskripsi
-Proyek ini dibuat untuk memenuhi tugas UTS
-mata kuliah Akuisisi dan Manajemen Data.
+## 1. Identitas Mahasiswa
+- Nama: [Ahmad Paesoel]
+- NIM: [2501010143]
+- Kelas: F
+- Program Studi: Informatika
 
-## Sumber Data
-1. BPS Indonesia (CSV)
-2. Day Bali Tour (Web Scraping)
+## 2. Deskripsi Proyek
+Proyek ini dibuat untuk memenuhi tugas UTS mata kuliah Akuisisi dan Manajemen Data.
+Proyek berfokus pada pengumpulan, pemeriksaan, pengolahan, dan penggabungan data
+yang berkaitan dengan pariwisata dan paket wisata di Bali.
+
+## 3. Sumber Data
+1. BPS Indonesia (dataset CSV)
+2. Day Bali Tour (web scraping)
 3. OpenStreetMap Nominatim (API)
 
-## Struktur Data
-- data/raw/download: Data CSV BPS
-- data/raw/scraping: Data HTML hasil scraping
-- data/raw/api: Data hasil API
-- data/process: Data hasil pengolahan
-- docs: Dokumentasi dan metadata
-- notebooks: Notebook pengerjaan
+## 4. Metode Akuisisi
+- Mengunduh dataset CSV dari BPS.
+- Melakukan web scraping menggunakan Python dan BeautifulSoup.
+- Mengambil data lokasi menggunakan API Nominatim.
 
-## Hasil Pengolahan
-Data BPS dibersihkan dan digabung.
-Data scraping dan API digabung menggunakan
-Pandas merge dengan validasi many_to_one.
+## 5. Tools yang Digunakan
+- Python
+- Google Colab
+- Pandas
+- Requests
+- BeautifulSoup
+- Git dan GitHub
 
-## Dokumentasi
-Informasi sumber data, metadata merge,
-dan checklist etika data tersedia di folder docs.
+## 6. Struktur Proyek
+- data/raw/download/: Data CSV BPS.
+- data/raw/scraping/: Data HTML hasil scraping.
+- data/raw/api/: Data hasil API.
+- data/process/: Data hasil pengolahan.
+- docs/: Dokumentasi, provenance, metadata, dan checklist etika data.
+- notebooks/: Notebook pengerjaan.
+
+## 7. Hasil Pengolahan
+Data BPS dibersihkan dan digabungkan.
+Data paket wisata hasil scraping dan data lokasi dari API
+digabungkan menggunakan Pandas merge dengan validasi many_to_one.
+
+Hasil penggabungan diperiksa untuk memastikan tidak terdapat
+duplikasi baris dan data lokasi yang hilang.
+
+## 8. Dokumentasi
+Informasi sumber data, metadata penggabungan, dan checklist etika data
+tersedia di folder docs.
+
+## 9. Catatan
+Data mentah disimpan tanpa perubahan. Proses pembersihan dan pengolahan
+dilakukan pada salinan data agar sumber aslinya tetap terjaga.
